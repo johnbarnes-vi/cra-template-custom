@@ -1,0 +1,23 @@
+
+{
+  "name": "cra-template-custom",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The base custom template for lj502jr's Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lj502jr/cra-template-custom.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
