@@ -6,8 +6,3 @@ Creating app with local copy of template:
 ```
 npx create-react-app my-new-app --template file:/home/path_to_template/cra-template-custom-boilerplate
 ```
-
-Creating app with remote copy of template:
-```
-npx create-react-app my-new-app --template https://github.com/lj502jr/cra-template-custom.git
-```
